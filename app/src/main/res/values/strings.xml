@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Abdihakim Portfolio</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="myBio">Adept software developer and innovative internet entreppreneur who adores working in a multi-disciplinary team and a quick learner of new skills.I am always endeavouring to produce high quality work.</string>
+    <string name="hobbies">
+        <li>Programming</li>
+        <li>Swimming</li>
+        <li>Movie Streaming</li>
+        <li>Playing football</li>
+        <li>Mobile gaming</li>
+        <li>Quran Recitation</li>
+    </string>
+    <string name="skills">
+        <ol>
+            <li>Java Programming</li>
+            <li>Python programming</li>
+            <li>Web Development</li>
+            <li>Android Development</li>
+            <li>C++ Programming</li>
+            <li>Postgresql</li>
+            <li>MySQl</li>
+        </ol>
+    </string>
 </resources>
